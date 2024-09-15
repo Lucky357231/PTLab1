@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import os
 import sys
-import pytest
+import pytes
 
 from Types import DataType
 from CalcRating import CalcRating
