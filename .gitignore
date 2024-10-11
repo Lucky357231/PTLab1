@@ -4,5 +4,5 @@ src/__pycache__
 test/__pycache__
 .pytest_cache
 venv
-src/__init__
-test/__init__
+src/__init__.py
+test/__init__.py
