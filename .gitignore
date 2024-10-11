@@ -5,4 +5,5 @@ test/__pycache__
 venv
 src/__init__.py
 test/__init__.py
+img/
 
