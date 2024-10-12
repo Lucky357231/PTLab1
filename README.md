@@ -41,22 +41,22 @@
 
 ### используемые языки / библиотеки / технологии:
 
-Python 3. x
-Библиотеки: pycodestyle, pytest, argparse, os, sys, JSON
-Используемые технологии: Python, Git, GitHub Actions
+<p>Python 3. x</p>
+<p>Библиотеки: pycodestyle, pytest, argparse, os, sys, JSON</p>
+<p>Используемые технологии: Python, Git, GitHub Actions</p>
 
 ### Индивидуальное задание:
 
 <h1 align="center">4 вариант</h1>
 
--JSON
+<p>-JSON</p>
 -Рассчитать и вывести на экран количество студентов,
 имеющих академические задолженности (имеющих балл
 < 61 хотя бы по одному предмету).
 
 ### Ход работы:
 
-Выполнение кода вети task_students прошло успешно
+Выполнение кода ветки task_students прошло успешно
 ![image](https://github.com/Lucky357231/PTLab1/blob/main/img/photo_2024-10-12_02-08-13.jpg?raw=true)
 
 Проверка кода ветки task_students прошла успешно
