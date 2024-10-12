@@ -41,7 +41,7 @@
 
 ### Используемые языки / библиотеки / технологии:
 
-<p>Python 3. x</p>
+<p>Python 3. 10</p>
 <p>Библиотеки: pycodestyle, pytest, argparse, os, sys, JSON</p>
 <p>Используемые технологии: Python, Git, GitHub Actions</p>
 
